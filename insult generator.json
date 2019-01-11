@@ -1,12 +1,19 @@
 {
 "origin":["#action.capitalize# #actionable#, #reference#."],
+  
 "action":["suck","touch","eat","sniff","gargle"],
 "actionable":["#singularQuantifier# #singularNoun#","#pluralQuantifier# #pluralNoun#","#possisive# #singularNoun#"],
+  
 "pluralQuantifier":["a ton of","a lot of","some","lots of","tons of","a dozen","a million","countless","a plethora of"],
+"pluralNoun":["dicks","cocks","asses","eggs","shits","balls","pubes","tits"],
 "singularQuantifier":["a","one","a single"],
-"pluralNoun":["dicks","cocks","asses","eggs","shits","balls","pubes"],
+"singularNoun":["stinky-cheese","child","uncle","dick","cock","ass","egg","dump","shit","armpit","fuck","fart","man","chode","bitch","tit"],
+  
 "possisive":["my","your","your own","your mom's","everyone's","God's","Satan's"],
-"singularNoun":["child","uncle","dick","cock","ass","egg","dump","shit","armpit","fuck","fart"],
-"reference":["you #singularNoun#","#singularNoun#-#postReference#"],
-"postReference":["wizard","wad","head","face","McGee","eater","stain","lover"]
+  
+"reference":["you #singularNoun#","#singularNoun#-#postReference#","son-of-a-#reference#"],
+"postReference":["hole","wizard","wad","head","face","McGee","eater","stain","lover"],
+  
+"adjective":["smelly","shitty","no-good","rotten"],
+"common":["mama's boy","loser","failure"]
 }
