@@ -1,4 +1,4 @@
-company : {
+{
 	origin: ["#prefix.capitalize##suffix# : #slogan#"],
 	prefix: ["micro","","macro","ener","vis","visa","viso","arc","soft","vari","data","future","tech","e","elec","eletro","atmo","big","intelli","smart","pro"],
 	suffix: ["soft","ware","tron","tronic","tronics","circuit","tech","sense","world","data","vision","works","sol"," Corp."," Inc."," Co."],
